@@ -1,1 +1,1 @@
-# GAN-FaceDetection-UNICA
+# CNN-FaceExp-Unica
